@@ -1,8 +1,8 @@
 # Capstone Performance Analysis Report: Low-Latency Order Book
 
-**Name:** Utkarsh Raj  
-**SST Email:** [utkarsh.24bcs10318@sst.scaler.com]  
-**Roll Number:** [24BCS10318]
+**Team Members:**
+1. **Name:** Utkarsh Raj | **SST Email:** utkarsh.24bcs10318@sst.scaler.com | **Roll Number:** 24BCS10318
+2. **Name:** Ojas Sinha | **SST Email:** ojas.24bcs10077@sst.scaler.com | **Roll Number:** 24BCS10077
 
 ---
 

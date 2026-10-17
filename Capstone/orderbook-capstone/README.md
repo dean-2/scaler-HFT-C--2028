@@ -1,9 +1,8 @@
 # Capstone: Build a Low-Latency Order Book (C++17)
 
-**Name:** Utkarsh Raj  
-**SST Email:** [utkarsh.24bcs10318@sst.scaler.com]  
-**Roll Number:** [24BCS10318]  
-**Submission PR Repository:** https://github.com/KnightKnight27/scaler-HFT-C--2028
+**Team Members:**
+1. **Name:** Utkarsh Raj | **SST Email:** utkarsh.24bcs10318@sst.scaler.com | **Roll Number:** 24BCS10318
+2. **Name:** Ojas Sinha | **SST Email:** ojas.24bcs10077@sst.scaler.com | **Roll Number:** 24BCS10077
 
 ---
 
